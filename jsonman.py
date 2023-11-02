@@ -1,4 +1,5 @@
-# Json manager - By Patrik Nagy (https://www.lopastudio.sk)
+# JsonMan - Written by Patrik Nagy (https://www.lopastudio.sk)
+# On 2.11.2023
 
 import json
 
