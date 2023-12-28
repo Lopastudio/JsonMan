@@ -1,6 +1,6 @@
 # JsonMan
 
-JsonMan is a simple Python script for managing a key-value data store with JSON file persistence. Written by [Patrik Nagy](https://www.lopastudio.sk) on 2.11.2023.
+JsonMan is a simple Python script for managing a key-value data store with JSON file persistence. Written by [Patrik Nagy](https://www.lopastudio.sk) [thats me :)]on 2.11.2023.
 
 ## Features
 
